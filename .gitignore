@@ -1,0 +1,8 @@
+.idea/*.xml
+.DS_Store
+.gitignore
+.idea/inspectionProfiles/
+.idea/js30.iml
+.idea/modules.xml
+.idea/workspace.xml
+07-array-cardio-day2/
