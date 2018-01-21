@@ -7,5 +7,5 @@ Website[:link: ](https://javascript30.com/)
 Github[:link: ](https://github.com/wesbos/JavaScript30) 
 
 ## 課程清單 checklist :clipboard: 
-- [ x ] [06-Ajax-Type-Ahead](https://jijigo.github.io/js30/06-Ajax-Type-Ahead/)
-- [ x ] [07-array-cardio-day2](https://jijigo.github.io/js30/07-array-cardio-day2/)
+- [x] [06-Ajax-Type-Ahead](https://jijigo.github.io/js30/06-Ajax-Type-Ahead/)
+- [x] [07-array-cardio-day2](https://jijigo.github.io/js30/07-array-cardio-day2/)
